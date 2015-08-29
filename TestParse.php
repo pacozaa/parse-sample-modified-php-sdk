@@ -11,6 +11,6 @@ $testObject = ParseObject::create("TestObject");
 $testObject->set("foo", "a");
 $testObject->save();
 
-echo "string";
+echo "strin";
 
 ?>
